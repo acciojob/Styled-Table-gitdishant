@@ -1,1 +1,14 @@
 /* your code */
+table td{
+	
+	width: 100%;
+}
+table th{
+	background-color:#ff9923;
+	
+	color:white;
+}
+table{
+	border:solid 1px yellow;
+	border-radius: 10px;
+}
